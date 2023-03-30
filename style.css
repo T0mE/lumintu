@@ -6,7 +6,15 @@
 
 html {
 	font-family: 'Saira Extra Condensed', sans-serif;
-	background: #181717;
+	/* background: #e5e5e5; */
 	color: #fff;
-	font-size: 10px;
+	/* font-size: 10px; */
+}
+
+body {
+	background-color: #e5e5e5;
+}
+
+.collapse {
+	justify-content: end;
 }
