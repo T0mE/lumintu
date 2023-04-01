@@ -15,6 +15,17 @@ body {
 	background-color: #e5e5e5;
 }
 
+header {
+	margin-bottom: 120px;
+}
+
 .collapse {
 	justify-content: end;
+}
+
+.nav__contact {
+	border: 1px solid black;
+	border-radius: 25px;
+	font-weight: 700;
+	background-color: #a48c8c;
 }
